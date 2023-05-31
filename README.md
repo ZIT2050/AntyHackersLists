@@ -5,7 +5,7 @@ Wszystkie wyłowione skryptami lub ręcznie z logów własnych serwerów
 
 ==> Bierz i używaj w swoim firewallu
 
-`UWAGA: Lista może zawierać adresy botów np. Google, Facebook, Microsoft lub narzędzi które potrzebujesz  - **_zweryfikuj przed użyciem!_**`
+`UWAGA: Lista może zawierać adresy botów np. Google, Facebook, Microsoft lub narzędzi które potrzebujesz  - zweryfikuj przed użyciem!`
 
 Wiele z nich możesz sprawdzić lub znaleźć na innych stronach:
 
@@ -23,7 +23,7 @@ All of them were extracted via scripts or by hand from real logs
 
 ==> Feel free to use them and block them in firewall
 
-`ALERT: List can contain IPs of bots like Google, Facebook, Microsoft or tools you need - **_verify before use!_**`
+`ALERT: List can contain IPs of bots like Google, Facebook, Microsoft or tools you need - verify before use!`
 
 A many of them you may find or verify in others sites:
 
