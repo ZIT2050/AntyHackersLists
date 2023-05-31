@@ -22,7 +22,7 @@ All of them were extracted via scripts or by hand from real logs
 
 ==> Feel free to use them and block them in firewall
 
-A many of them you may found or verify in others sites:
+A many of them you may find or verify in others sites:
 
 https://www.abuseipdb.com/
 
